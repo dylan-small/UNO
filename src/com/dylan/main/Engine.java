@@ -316,7 +316,7 @@ public class Engine {
 	 * clears the console so other players can't cheat
 	 */
 	private void clear() {
-		for(int i = 0;i< 40;i++) {
+		for(int i = 0;i< 400;i++) {
 			System.out.println();
 		}
 	}
